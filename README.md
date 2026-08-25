@@ -49,7 +49,7 @@ Each level provides a different challenge, with coins placed throughout the envi
 <img width="1919" height="926" alt="Screenshot 2026-08-13 163240" src="https://github.com/user-attachments/assets/ef83b467-1ffd-4c57-b393-ecb200cd8f85" />
 
 
-Screenshots and gameplay footage will be added here.
+
 
 ## 🚧 Development Status
 
